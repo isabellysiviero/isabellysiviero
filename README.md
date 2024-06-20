@@ -3,9 +3,9 @@
   <br>
   <div style="max-width: 600;">
     <p>
-      Técnico em Desenvolvimento de Sistemas • ETECVAV<br>
-      Aplicações Web • Entusiasta de UX/UI Design<br>
-      Inglês Intermediário • Francês Básico<br>
+      Téc. em Desenvolvimento de Sistemas • ETEC<br>
+      Aplicações Web • JavaScript<br>
+      Inglês Intermediário<br>
     </p>
   </div>
   <br><br>
