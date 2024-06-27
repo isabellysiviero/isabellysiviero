@@ -4,9 +4,8 @@
   <div style="max-width: 600;">
     <p>
       Téc. em Desenvolvimento de Sistemas • ETEC<br>
-      Aplicações Web • JavaScript<br>
-      Inglês Intermediário<br>
+      Aplicações Web • Frontend<br>
+      Inglês intermediário<br>
     </p>
   </div>
-  <img src="https://github.com/isabellysiviero/isabellysiviero/assets/156025675/2e0277e6-abb4-4ae3-b347-be9ba4aab382" width="130px" height="130px"/>
 </div><br>
